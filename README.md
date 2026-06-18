@@ -13,6 +13,25 @@
 | v1.1 | 2026-06-11 | 确定客户端形态：学生端为原生 App（iOS + Android），老师端与管理端为 Web；新增试点期分发策略与正式上架合规规划；更新技术栈建议与相关风险应对 |
 
 ---
+# 概览：
+BNBU 校园综合平台
+├─ 业务核心：体育打卡、学时、成绩、体测、免测、组织抵扣
+├─ Web 端：老师端 + 管理端 + 后端交付原型
+│  ├─ 前端：原生 HTML + CSS + JavaScript
+│  ├─ 状态：app.js 里的全局 state
+│  ├─ 页面：renderDashboard / renderCourses / renderStudents / renderTasks / renderGrades
+│  └─ 后端样例：Express + MySQL + multer 文件上传
+├─ Android 端：学生 App
+│  ├─ 技术：Kotlin + Jetpack Compose + Material3
+│  ├─ 状态：StudentAppState
+│  ├─ 网络：OkHttp + Coroutines + Repository 接口
+│  └─ 本地：SharedPreferences + Gson
+├─ iOS 端：学生 App
+│  ├─ 技术：Swift + SwiftUI
+│  ├─ 状态：AppState + EnvironmentObject
+│  ├─ 数据：MockStudentRepository / StudentRepository
+│  └─ 本地：UserDefaults + JSONEncoder / JSONDecoder
+└─ 交付材料：产品文档、OpenAPI、schema.sql、README、验证记录
 
 # 第一章 项目概述
 
