@@ -1,0 +1,8 @@
+[      59ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?fresh=quality-v1:11
+[     184ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4174/favicon.ico:0
+[   15266ms] [ERROR] ReferenceError: student is not defined
+    at buildStudentHoursSummaryHtml (http://127.0.0.1:4174/app.js:2864:93)
+    at renderStudentDetail (http://127.0.0.1:4174/app.js:2828:52)
+    at renderRouteUnsafe (http://127.0.0.1:4174/app.js:3440:64)
+    at renderRoute (http://127.0.0.1:4174/app.js:3476:5)
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4446:5) @ http://127.0.0.1:4174/app.js:3477

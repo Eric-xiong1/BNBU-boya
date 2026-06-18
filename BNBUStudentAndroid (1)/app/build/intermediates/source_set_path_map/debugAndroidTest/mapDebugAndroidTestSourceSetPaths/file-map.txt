@@ -1,0 +1,4 @@
+edu.bnbu.student.mvp.test.app-androidTest-0 C:\Users\23328\Desktop\BNBU-ALL\BNBUStudentAndroid (1)\app\build\generated\res\resValues\androidTest\debug
+edu.bnbu.student.mvp.test.app-mergeDebugAndroidTestResources-1 C:\Users\23328\Desktop\BNBU-ALL\BNBUStudentAndroid (1)\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+edu.bnbu.student.mvp.test.app-mergeDebugAndroidTestResources-2 C:\Users\23328\Desktop\BNBU-ALL\BNBUStudentAndroid (1)\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+edu.bnbu.student.mvp.test.app-debugAndroidTest-3 C:\Users\23328\Desktop\BNBU-ALL\BNBUStudentAndroid (1)\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

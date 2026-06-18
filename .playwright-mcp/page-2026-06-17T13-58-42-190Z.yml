@@ -1,0 +1,8 @@
+- generic [ref=e332]:
+  - paragraph [ref=e333]: RUNTIME GUARD
+  - heading "页面遇到错误" [level=1] [ref=e334]
+  - paragraph [ref=e335]: 当前页面数据异常，系统已阻止整页白屏。可以重置演示状态后继续预览。
+  - generic [ref=e336]: student is not defined
+  - generic [ref=e337]:
+    - button "重置演示" [ref=e338] [cursor=pointer]
+    - button "返回登录" [ref=e339] [cursor=pointer]

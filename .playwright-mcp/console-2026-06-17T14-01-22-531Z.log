@@ -1,0 +1,32 @@
+[      16ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?fresh=quality-v1:11
+[   58584ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4355:3)
+[   58607ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[   79950ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4355:3)
+[   79973ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[  124001ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4355:3)
+[  124024ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[  171587ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4355:3)
+[  171616ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[  192319ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4355:3)
+[  192343ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[  232804ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4355:3)
+[  232828ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[  275443ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4355:3)
+    at eval (eval at <anonymous> (eval at evaluate (:303:30)), <anonymous>:1:199)
+    at eval (eval at evaluate (:303:30), <anonymous>:4:50)
+    at UtilityScript.evaluate (<anonymous>:305:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[  275453ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[  296561ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4355:3)
+    at eval (eval at <anonymous> (eval at evaluate (:303:30)), <anonymous>:1:221)
+    at eval (eval at evaluate (:303:30), <anonymous>:4:50)
+    at UtilityScript.evaluate (<anonymous>:305:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)

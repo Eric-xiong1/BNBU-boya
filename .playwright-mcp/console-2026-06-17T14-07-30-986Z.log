@@ -1,0 +1,10 @@
+[      12ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?fresh=quality-v1:11
+[   13105ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4356:3)
+[   13128ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[   65872ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4356:3)
+[   65896ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11
+[  130524ms] ReferenceError: target is not defined
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4356:3)
+[  130549ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?:11

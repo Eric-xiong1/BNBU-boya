@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "edu.bnbu.student.mvp.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "edu.bnbu.student.mvp.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "edu.bnbu.student.mvp.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "edu.bnbu.student.mvp.app-main-45:/xml/data_extraction_rules.xml"
+    }
+]

@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+color bnbu_ink
+color bnbu_paper
+style Theme.BNBUStudent
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,35 @@
+- main [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - img "BNBU 黑白校徽标识" [ref=e6]:
+        - img [ref=e7]:
+          - generic [ref=e19]: "2005"
+      - heading "体育成绩 管理系统" [level=1] [ref=e20]:
+        - text: 体育成绩
+        - text: 管理系统
+    - paragraph [ref=e21]: 面向 BNBU 体育部的 Web 工作台。先让老师少干活，再把打卡、考试、签到、体测和导出变成一条可靠流程。
+  - generic [ref=e23]:
+    - generic [ref=e24]:
+      - paragraph [ref=e25]: SIGN IN
+      - heading "统一登录" [level=2] [ref=e26]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]: 账号
+          - textbox "账号" [ref=e31]:
+            - /placeholder: 工号 / 邮箱
+        - generic [ref=e32]:
+          - generic [ref=e33]: 密码
+          - textbox "密码" [ref=e34]:
+            - /placeholder: 请输入密码
+        - generic [ref=e35]:
+          - generic [ref=e36]: 角色
+          - combobox "角色" [ref=e37]:
+            - option "体育任课老师" [selected]
+            - option "体育部管理员"
+            - option "校队 / 社团负责人"
+      - generic [ref=e38]:
+        - button "进入系统" [ref=e39] [cursor=pointer]
+        - button "老师端演示" [ref=e40] [cursor=pointer]
+        - button "管理端演示" [ref=e41] [cursor=pointer]
+        - button "负责人演示" [ref=e42] [cursor=pointer]

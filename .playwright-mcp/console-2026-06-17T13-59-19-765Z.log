@@ -1,0 +1,6 @@
+[      15ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ http://127.0.0.1:4174/index.html?fresh=quality-v1:11
+[    7061ms] [ERROR] ReferenceError: studentProfilePanel is not defined
+    at renderStudentDetail (http://127.0.0.1:4174/app.js:2828:11)
+    at renderRouteUnsafe (http://127.0.0.1:4174/app.js:3443:64)
+    at renderRoute (http://127.0.0.1:4174/app.js:3479:5)
+    at HTMLDocument.<anonymous> (http://127.0.0.1:4174/app.js:4449:5) @ http://127.0.0.1:4174/app.js:3480

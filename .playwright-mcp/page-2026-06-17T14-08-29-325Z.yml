@@ -1,0 +1,202 @@
+- generic [ref=e331]:
+  - complementary [ref=e332]:
+    - generic [ref=e333]:
+      - img "BNBU 黑白校徽标识" [ref=e334]:
+        - img [ref=e335]:
+          - generic [ref=e347]: "2005"
+      - generic [ref=e348]:
+        - paragraph [ref=e349]: BNBU
+        - heading "体育成绩 工作台" [level=1] [ref=e350]:
+          - text: 体育成绩
+          - text: 工作台
+    - navigation [ref=e351]:
+      - generic [ref=e352]: Teacher
+      - button "课程工作台" [ref=e353] [cursor=pointer]
+      - button "我的课程" [ref=e354] [cursor=pointer]
+      - button "课程任务" [ref=e355] [cursor=pointer]
+      - button "名单导入" [ref=e356] [cursor=pointer]
+      - button "学生名单" [ref=e357] [cursor=pointer]
+      - button "打卡进度" [ref=e358] [cursor=pointer]
+      - button "异常审核" [ref=e359] [cursor=pointer]
+      - button "专项考试" [ref=e360] [cursor=pointer]
+      - button "签到 / 平时分" [ref=e361] [cursor=pointer]
+      - button "体测录入" [ref=e362] [cursor=pointer]
+      - button "成绩汇总" [ref=e363] [cursor=pointer]
+      - button "成绩导出" [ref=e364] [cursor=pointer]
+      - button "学生学时明细" [ref=e365] [cursor=pointer]
+      - button "抵扣待确认" [ref=e366] [cursor=pointer]
+      - button "耐力跑换算" [ref=e367] [cursor=pointer]
+      - button "免测审核" [ref=e368] [cursor=pointer]
+    - generic [ref=e369]:
+      - paragraph [ref=e370]: CURRENT ROLE
+      - strong [ref=e371]: 体育任课老师
+      - generic [ref=e372]: teacher@bnbu.edu.cn
+      - generic [ref=e373]:
+        - button "退出" [ref=e374] [cursor=pointer]
+        - button "重置演示" [ref=e375] [cursor=pointer]
+  - main [ref=e376]:
+    - generic [ref=e377]:
+      - generic [ref=e378]:
+        - paragraph [ref=e379]: 2026 SPRING / GEPE101 / Section 1004
+        - heading "全人教育体育模块" [level=2] [ref=e380]
+      - generic [ref=e381]:
+        - button "搜索" [ref=e382] [cursor=pointer]: ⌕
+        - button "通知" [ref=e383] [cursor=pointer]: "!"
+        - button "切换课程" [ref=e385] [cursor=pointer]
+        - button "创建任务" [ref=e386] [cursor=pointer]
+    - generic [ref=e388]:
+      - generic [ref=e389]:
+        - generic [ref=e390]:
+          - generic [ref=e392]:
+            - paragraph [ref=e393]: ALL HOUR SOURCES — AGGREGATED
+            - heading "学生学时明细" [level=3] [ref=e394]
+          - generic [ref=e397]:
+            - generic [ref=e398]: 选择学生
+            - combobox "选择学生" [ref=e399]:
+              - option "陈雨晴 (22301142)" [selected]
+              - option "林子航 (22301087)"
+              - option "黄嘉仪 (22301205)"
+              - option "宋亦然 (22301318)"
+              - option "梁思远 (22301776)"
+              - option "邓悦宁 (22301904)"
+          - table [ref=e401]:
+            - rowgroup [ref=e402]:
+              - row "来源类型 运动类型 申请小时 审批小时 提交时间 审核状态 审核人" [ref=e403]:
+                - columnheader "来源类型" [ref=e404]
+                - columnheader "运动类型" [ref=e405]
+                - columnheader "申请小时" [ref=e406]
+                - columnheader "审批小时" [ref=e407]
+                - columnheader "提交时间" [ref=e408]
+                - columnheader "审核状态" [ref=e409]
+                - columnheader "审核人" [ref=e410]
+            - rowgroup [ref=e411]:
+              - row "学生自提交 课程相关 2h 0h - 待审核 -" [ref=e412]:
+                - cell "学生自提交" [ref=e413]
+                - cell "课程相关" [ref=e414]
+                - cell "2h" [ref=e415]
+                - cell "0h" [ref=e416]
+                - cell "-" [ref=e417]
+                - cell "待审核" [ref=e418]:
+                  - generic [ref=e419]: 待审核
+                - cell "-" [ref=e420]
+              - row "校队抵扣 其他运动 10h 10h - 系统抵扣 校队名单已确认" [ref=e421]:
+                - cell "校队抵扣" [ref=e422]
+                - cell "其他运动" [ref=e423]
+                - cell "10h" [ref=e424]
+                - cell "10h" [ref=e425]
+                - cell "-" [ref=e426]
+                - cell "系统抵扣" [ref=e427]:
+                  - generic [ref=e428]: 系统抵扣
+                - cell "校队名单已确认" [ref=e429]
+        - generic [ref=e430]:
+          - generic [ref=e432]:
+            - paragraph [ref=e433]: HOURS SUMMARY BY SOURCE
+            - heading "学时汇总" [level=3] [ref=e434]
+          - generic [ref=e435]:
+            - generic [ref=e436]:
+              - strong [ref=e437]: 学生自提交（课程相关）
+              - text: 0.0h (审批通过)
+            - generic [ref=e438]:
+              - strong [ref=e439]: 学生自提交（总申请）
+              - text: 2.0h
+            - generic [ref=e440]:
+              - strong [ref=e441]: 校队/社团抵扣
+              - text: 10.0h
+            - generic [ref=e442]:
+              - strong [ref=e443]: 老师手动加抵
+              - text: 0.0h
+            - generic [ref=e444]:
+              - strong [ref=e445]: 合计
+              - strong [ref=e447]: 10.0h
+            - generic [ref=e448]:
+              - strong [ref=e449]: 课程相关
+              - strong [ref=e451]: 6.0 / 10h
+            - generic [ref=e452]:
+              - strong [ref=e453]: 其他运动
+              - strong [ref=e455]: 10.0 / 10h
+      - generic [ref=e456]:
+        - generic [ref=e457]:
+          - generic [ref=e459]:
+            - paragraph [ref=e460]: STUDENT PROFILE
+            - heading "学生信息" [level=3] [ref=e461]
+          - generic [ref=e462]:
+            - generic [ref=e463]:
+              - strong [ref=e464]: 学号
+              - text: "22301142"
+            - generic [ref=e465]:
+              - strong [ref=e466]: 姓名
+              - text: 陈雨晴
+            - generic [ref=e467]:
+              - strong [ref=e468]: 学院
+              - text: 工商管理学院
+            - generic [ref=e469]:
+              - strong [ref=e470]: 性别
+              - text: 女
+            - generic [ref=e471]:
+              - strong [ref=e472]: 年级
+              - text: 大二
+            - generic [ref=e473]:
+              - strong [ref=e474]: 状态
+              - generic [ref=e475]: 差课程 4h
+        - generic [ref=e476]:
+          - generic [ref=e478]:
+            - paragraph [ref=e479]: SPORT HOURS
+            - heading "体育学时进度" [level=3] [ref=e480]
+          - generic [ref=e481]:
+            - generic [ref=e482]:
+              - text: 课程相关
+              - strong [ref=e484]: 6 / 10h
+            - generic [ref=e485]:
+              - text: 其他运动
+              - strong [ref=e487]: 10 / 10h
+            - generic [ref=e488]:
+              - generic [ref=e489]:
+                - text: 考试
+                - strong [ref=e490]: "83"
+              - generic [ref=e491]:
+                - text: 出勤
+                - strong [ref=e492]: "90"
+              - generic [ref=e493]:
+                - text: 体测
+                - strong [ref=e494]: "78"
+        - generic [ref=e495]:
+          - generic [ref=e497]:
+            - paragraph [ref=e498]: ORGANIZATION IDENTITY
+            - heading "组织身份" [level=3] [ref=e499]
+          - generic [ref=e501]:
+            - generic [ref=e502]:
+              - strong [ref=e503]: 羽毛球队
+              - text: 校队
+            - generic [ref=e504]: 组织类型校队
+            - generic [ref=e505]: 是否体育类是
+            - generic [ref=e506]:
+              - text: 身份状态
+              - generic [ref=e507]: 认证有效
+            - generic [ref=e508]: 有效期2026-09-01
+            - generic [ref=e509]:
+              - text: 抵扣状态
+              - generic [ref=e510]: 可抵扣
+            - generic [ref=e511]: 认证人体育部管理员
+            - generic [ref=e512]: 备注校队名单已确认
+            - generic [ref=e513]:
+              - button "标记已确认" [ref=e514] [cursor=pointer]
+              - button "标记存疑" [ref=e515] [cursor=pointer]
+        - generic [ref=e516]:
+          - generic [ref=e518]:
+            - paragraph [ref=e519]: MANUAL CREDIT
+            - heading "手动加抵卡" [level=3] [ref=e520]
+          - generic [ref=e521]:
+            - generic [ref=e522]:
+              - generic [ref=e523]: 抵扣类型
+              - combobox "抵扣类型" [ref=e524]:
+                - option "课程相关" [selected]
+                - option "其他运动"
+            - generic [ref=e525]:
+              - generic [ref=e526]: 抵扣小时数
+              - spinbutton "抵扣小时数" [ref=e527]: "1"
+            - generic [ref=e528]:
+              - generic [ref=e529]: 原因说明（必填）
+              - textbox "原因说明（必填）" [active] [ref=e530]:
+                - /placeholder: 请输入加抵原因，例如：参加校级运动会训练
+                - text: 参加校级运动会训练
+            - button "确认加抵" [ref=e531] [cursor=pointer]
